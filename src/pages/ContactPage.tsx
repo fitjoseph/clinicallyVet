@@ -65,9 +65,9 @@ const ContactPage: React.FC = () => {
               <div>
                 <h3 className="font-semibold text-gray-900 mb-1">Phone Numbers</h3>
                 <p className="text-gray-600">
-                  Main: (512) 555-0123<br />
-                  Emergency: (512) 555-0124<br />
-                  Toll-Free: 1-800-PET-CARE
+                  Main: +1 (512) 555-0123<br />
+                  Emergency: +1 (512) 555-0124<br />
+                  Toll-Free: +1-800-PET-CARE
                 </p>
               </div>
             </div>
