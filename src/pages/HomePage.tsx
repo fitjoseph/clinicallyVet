@@ -32,6 +32,33 @@ const HomePage: React.FC = () => {
           </Link>
         </div>
 
+        {/* Who We Are Section */}
+        <div className="bg-gradient-to-br from-green-50 to-blue-50 rounded-xl p-12 mb-12">
+          <h2 className="text-3xl font-bold text-gray-900 text-center mb-6">Who We Are</h2>
+          <h3 className="text-xl font-semibold text-green-600 mb-6 text-center">
+            A collaborative approach to accelerate innovation in animal health.
+          </h3>
+          <p className="text-gray-600 leading-relaxed mb-8 max-w-4xl mx-auto text-center">
+            ClinicallyVet manages a research innovation platform through collaborations with its group companies, 
+            external Subject Matter Experts, Sponsors, Research Institutions, and Funders or Investors, bridging 
+            the gap between knowledge, compliant research facilities, and client needs.
+          </p>
+          
+          <div className="grid md:grid-cols-3 gap-6">
+            <div className="bg-white rounded-lg p-6 shadow-md">
+              <h4 className="font-semibold text-gray-900 mb-3">Streamlined Access</h4>
+              <p className="text-sm text-gray-600">Single contract with multiple world-class CROs and centralized support ensuring quality across all sites.</p>
+            </div>
+            <div className="bg-white rounded-lg p-6 shadow-md">
+              <h4 className="font-semibold text-gray-900 mb-3">Expert Teams</h4>
+              <p className="text-sm text-gray-600">Specialized teams in Project Management, Scientific Writing, Quality Assurance, and renowned Subject Matter Experts.</p>
+            </div>
+            <div className="bg-white rounded-lg p-6 shadow-md">
+              <h4 className="font-semibold text-gray-900 mb-3">Flexible Solutions</h4>
+              <p className="text-sm text-gray-600">From Functional Services to dedicated facilities and complete Product Program Development Management.</p>
+            </div>
+          </div>
+        </div>
         <ProductGrid products={featuredProducts} />
 
         <div className="text-center mt-12">
