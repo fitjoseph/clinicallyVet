@@ -188,7 +188,7 @@ export const products: Product[] = [
     category: 'reptiles',
     price: 89.99,
     description: 'Full-spectrum UV lighting essential for reptile health and calcium absorption.',
-    image: 'https://images.pexels.com/photos/1427581/pexels-photo-1427581.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: '/reptile.jpg',
     features: ['UVA and UVB spectrum', 'Promotes vitamin D3', 'Long-lasting bulb', 'Easy installation'],
     inStock: true
   },
