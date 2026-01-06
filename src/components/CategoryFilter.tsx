@@ -7,7 +7,7 @@ interface CategoryFilterProps {
 }
 
 const categories = [
-  { id: 'all', name: 'All Products', icon: null, count: 135 },
+  { id: 'all', name: 'All Products', icon: null, count: 160 },
   { id: 'dogs', name: 'Dogs', icon: Dog, count: 30 },
   { id: 'cats', name: 'Cats', icon: Cat, count: 30 },
   { id: 'birds', name: 'Birds', icon: Bird, count: 20 },
@@ -17,7 +17,7 @@ const categories = [
   { id: 'livestock', name: 'Livestock', icon: Cow, count: 5 },
   { id: 'exotic-animals', name: 'Exotic Animals', icon: Globe, count: 5 },
   { id: 'vaccines', name: 'Vaccines', icon: Zap, count: 5 },
-  { id: 'lab-products', name: 'Lab Products', icon: Microscope, count: 5 },
+  { id: 'lab-products', name: 'Lab Products', icon: Microscope, count: 30 },
 ];
 
 const CategoryFilter: React.FC<CategoryFilterProps> = ({ selectedCategory, onCategoryChange }) => {

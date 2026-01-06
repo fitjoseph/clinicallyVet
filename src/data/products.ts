@@ -376,7 +376,7 @@ export const products: Product[] = [
     category: 'lab-products',
     price: 149.99,
     description: 'Laboratory-developed multi-strain probiotic for optimal gut health.',
-    image: 'https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/3786126/pexels-photo-3786126.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['15 billion CFU', 'Multi-strain formula', 'Shelf-stable', 'Research-backed'],
     inStock: true
   },
@@ -386,7 +386,7 @@ export const products: Product[] = [
     category: 'lab-products',
     price: 1899.99,
     description: 'Cutting-edge stem cell therapy system for regenerative veterinary medicine.',
-    image: 'https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Adipose-derived cells', 'Complete processing kit', 'Same-day treatment', 'Training included'],
     inStock: true
   },
@@ -396,7 +396,7 @@ export const products: Product[] = [
     category: 'lab-products',
     price: 2499.99,
     description: 'Advanced gene therapy delivery system for veterinary applications.',
-    image: 'https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Viral vector system', 'Targeted delivery', 'Research grade', 'Specialized storage'],
     inStock: true
   },
@@ -406,7 +406,7 @@ export const products: Product[] = [
     category: 'lab-products',
     price: 299.99,
     description: 'Laboratory-formulated immune system modulator for various species.',
-    image: 'https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/3786126/pexels-photo-3786126.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Immune system support', 'Multi-species formula', 'Injectable solution', 'Veterinary exclusive'],
     inStock: true
   },
@@ -416,8 +416,258 @@ export const products: Product[] = [
     category: 'lab-products',
     price: 599.99,
     description: 'Advanced diagnostic kit for detecting disease biomarkers in animals.',
-    image: 'https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Rapid results', 'High sensitivity', 'Multiple biomarkers', 'Laboratory grade'],
+    inStock: true
+  },
+  {
+    id: 'lab-6',
+    name: 'PCR Amplification Kit',
+    category: 'lab-products',
+    price: 349.99,
+    description: 'High-fidelity PCR kit for veterinary diagnostic applications.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['High-fidelity polymerase', 'Veterinary validated', 'Fast cycling protocol', 'Research grade'],
+    inStock: true
+  },
+  {
+    id: 'lab-7',
+    name: 'Enzyme-Linked Immunosorbent Assay (ELISA) Kit',
+    category: 'lab-products',
+    price: 289.99,
+    description: 'Quantitative ELISA kit for measuring specific proteins in animal samples.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Quantitative results', 'High specificity', 'Veterinary validated', '96-well format'],
+    inStock: true
+  },
+  {
+    id: 'lab-8',
+    name: 'Cell Culture Media - Veterinary Grade',
+    category: 'lab-products',
+    price: 189.99,
+    description: 'Specialized cell culture medium optimized for veterinary cell lines.',
+    image: 'https://images.pexels.com/photos/3786126/pexels-photo-3786126.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Serum-free formula', 'Animal cell optimized', 'Sterile filtered', 'Long shelf life'],
+    inStock: true
+  },
+  {
+    id: 'lab-9',
+    name: 'Protein Purification System',
+    category: 'lab-products',
+    price: 1299.99,
+    description: 'Automated protein purification system for veterinary research applications.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Automated operation', 'High purity output', 'Multiple purification methods', 'User-friendly interface'],
+    inStock: true
+  },
+  {
+    id: 'lab-10',
+    name: 'Microscopy Staining Kit',
+    category: 'lab-products',
+    price: 129.99,
+    description: 'Comprehensive staining kit for veterinary histopathology and cytology.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Multiple stain types', 'Veterinary optimized', 'Ready-to-use solutions', 'Professional quality'],
+    inStock: true
+  },
+  {
+    id: 'lab-11',
+    name: 'DNA Extraction Kit - Animal Tissue',
+    category: 'lab-products',
+    price: 249.99,
+    description: 'High-yield DNA extraction kit specifically designed for animal tissue samples.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['High DNA yield', 'Animal tissue optimized', 'Fast protocol', 'Pure DNA output'],
+    inStock: true
+  },
+  {
+    id: 'lab-12',
+    name: 'Veterinary Blood Chemistry Analyzer',
+    category: 'lab-products',
+    price: 4999.99,
+    description: 'Automated blood chemistry analyzer for comprehensive veterinary diagnostics.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Multi-parameter analysis', 'Rapid results', 'Quality control built-in', 'Veterinary specific'],
+    inStock: true
+  },
+  {
+    id: 'lab-13',
+    name: 'Antimicrobial Susceptibility Testing Kit',
+    category: 'lab-products',
+    price: 199.99,
+    description: 'Complete kit for testing antimicrobial resistance in veterinary pathogens.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Multiple antibiotics', 'Veterinary pathogens', 'Standardized protocol', 'Quality assured'],
+    inStock: true
+  },
+  {
+    id: 'lab-14',
+    name: 'Cytokine Analysis Panel',
+    category: 'lab-products',
+    price: 799.99,
+    description: 'Multiplex cytokine analysis panel for veterinary immunology research.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Multiple cytokines', 'Species-specific', 'High sensitivity', 'Research validated'],
+    inStock: true
+  },
+  {
+    id: 'lab-15',
+    name: 'Veterinary Pathogen Detection Array',
+    category: 'lab-products',
+    price: 899.99,
+    description: 'Comprehensive pathogen detection array for veterinary infectious diseases.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Multi-pathogen detection', 'Rapid identification', 'High specificity', 'Veterinary validated'],
+    inStock: true
+  },
+  {
+    id: 'lab-16',
+    name: 'Tissue Processing Reagents',
+    category: 'lab-products',
+    price: 159.99,
+    description: 'Complete set of reagents for veterinary tissue processing and embedding.',
+    image: 'https://images.pexels.com/photos/3786126/pexels-photo-3786126.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Complete reagent set', 'Veterinary optimized', 'High quality results', 'Ready-to-use'],
+    inStock: true
+  },
+  {
+    id: 'lab-17',
+    name: 'Veterinary Hormone Assay Kit',
+    category: 'lab-products',
+    price: 449.99,
+    description: 'Sensitive hormone assay kit for veterinary endocrinology studies.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['High sensitivity', 'Multiple hormones', 'Species validated', 'Research grade'],
+    inStock: true
+  },
+  {
+    id: 'lab-18',
+    name: 'Bacterial Culture Media Set',
+    category: 'lab-products',
+    price: 219.99,
+    description: 'Comprehensive bacterial culture media set for veterinary microbiology.',
+    image: 'https://images.pexels.com/photos/3786126/pexels-photo-3786126.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Multiple media types', 'Veterinary pathogens', 'Quality controlled', 'Ready-to-use'],
+    inStock: true
+  },
+  {
+    id: 'lab-19',
+    name: 'Flow Cytometry Antibody Panel',
+    category: 'lab-products',
+    price: 699.99,
+    description: 'Veterinary-specific antibody panel for flow cytometry applications.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Species-specific antibodies', 'Flow cytometry optimized', 'Research validated', 'High quality'],
+    inStock: true
+  },
+  {
+    id: 'lab-20',
+    name: 'Veterinary Toxicology Screening Kit',
+    category: 'lab-products',
+    price: 549.99,
+    description: 'Comprehensive toxicology screening kit for veterinary forensic applications.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Multi-toxin detection', 'Rapid screening', 'Veterinary validated', 'Forensic grade'],
+    inStock: true
+  },
+  {
+    id: 'lab-21',
+    name: 'Parasitology Diagnostic Kit',
+    category: 'lab-products',
+    price: 179.99,
+    description: 'Complete diagnostic kit for veterinary parasitology examinations.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Multiple parasite detection', 'Easy-to-use protocol', 'Veterinary specific', 'Accurate results'],
+    inStock: true
+  },
+  {
+    id: 'lab-22',
+    name: 'Veterinary Genetic Testing Panel',
+    category: 'lab-products',
+    price: 999.99,
+    description: 'Comprehensive genetic testing panel for hereditary diseases in animals.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Multiple genetic markers', 'Species-specific', 'High accuracy', 'Comprehensive report'],
+    inStock: true
+  },
+  {
+    id: 'lab-23',
+    name: 'Veterinary Serology Test Kit',
+    category: 'lab-products',
+    price: 329.99,
+    description: 'Serological testing kit for veterinary infectious disease diagnosis.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Multiple pathogens', 'Rapid results', 'High specificity', 'Veterinary validated'],
+    inStock: true
+  },
+  {
+    id: 'lab-24',
+    name: 'Veterinary Molecular Diagnostics Platform',
+    category: 'lab-products',
+    price: 7999.99,
+    description: 'Advanced molecular diagnostics platform for veterinary laboratories.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Automated processing', 'Multiple assay types', 'High throughput', 'Professional grade'],
+    inStock: true
+  },
+  {
+    id: 'lab-25',
+    name: 'Veterinary Immunohistochemistry Kit',
+    category: 'lab-products',
+    price: 389.99,
+    description: 'Complete immunohistochemistry kit for veterinary pathology applications.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Complete reagent set', 'Veterinary optimized', 'High quality staining', 'Research grade'],
+    inStock: true
+  },
+  {
+    id: 'lab-26',
+    name: 'Veterinary Drug Residue Testing Kit',
+    category: 'lab-products',
+    price: 459.99,
+    description: 'Sensitive testing kit for drug residues in animal products and tissues.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Multi-drug detection', 'High sensitivity', 'Regulatory compliant', 'Rapid results'],
+    inStock: true
+  },
+  {
+    id: 'lab-27',
+    name: 'Veterinary Microbiome Analysis Kit',
+    category: 'lab-products',
+    price: 649.99,
+    description: 'Advanced microbiome analysis kit for veterinary gut health research.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['16S rRNA sequencing', 'Comprehensive analysis', 'Species-specific', 'Research validated'],
+    inStock: true
+  },
+  {
+    id: 'lab-28',
+    name: 'Veterinary Allergy Testing Panel',
+    category: 'lab-products',
+    price: 379.99,
+    description: 'Comprehensive allergy testing panel for veterinary dermatology applications.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Multiple allergens', 'Species-specific', 'High accuracy', 'Detailed reporting'],
+    inStock: true
+  },
+  {
+    id: 'lab-29',
+    name: 'Veterinary Cancer Biomarker Kit',
+    category: 'lab-products',
+    price: 899.99,
+    description: 'Specialized biomarker detection kit for veterinary oncology applications.',
+    image: 'https://images.pexels.com/photos/3825527/pexels-photo-3825527.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Cancer-specific markers', 'Early detection', 'High sensitivity', 'Veterinary validated'],
+    inStock: true
+  },
+  {
+    id: 'lab-30',
+    name: 'Veterinary Nutritional Analysis Kit',
+    category: 'lab-products',
+    price: 269.99,
+    description: 'Complete nutritional analysis kit for veterinary feed and supplement testing.',
+    image: 'https://images.pexels.com/photos/3786126/pexels-photo-3786126.jpeg?auto=compress&cs=tinysrgb&w=800',
+    features: ['Multiple nutrients', 'Feed analysis', 'Quality control', 'Regulatory compliant'],
     inStock: true
   }
 ];
