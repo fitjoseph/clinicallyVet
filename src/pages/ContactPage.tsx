@@ -79,9 +79,6 @@ const ContactPage: React.FC = () => {
               <div>
                 <h3 className="font-semibold text-gray-900 mb-1">Email Addresses</h3>
                 <p className="text-gray-600">
-                  General: info@egarpharm.com<br />
-                  Support: support@egarpharm.com<br />
-                  Sales: sales@egarpharm.com
                   General: info@clinicallyvet.com<br />
                   Support: support@clinicallyvet.com<br />
                   Sales: sales@clinicallyvet.com
