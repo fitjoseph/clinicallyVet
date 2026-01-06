@@ -20,6 +20,67 @@ const AboutPage: React.FC = () => {
         </p>
       </div>
 
+      {/* Who We Are Section */}
+      <div className="mb-16">
+        <h2 className="text-3xl font-bold text-gray-900 text-center mb-8">Who We Are</h2>
+        <div className="bg-white rounded-xl shadow-lg p-8 mb-8">
+          <h3 className="text-xl font-semibold text-green-600 mb-4 text-center">
+            A collaborative approach to accelerate innovation in animal health.
+          </h3>
+          <p className="text-gray-600 leading-relaxed mb-6">
+            ClinicallyVet manages a research innovation platform through collaborations with its group companies, 
+            external Subject Matter Experts, Sponsors, Research Institutions, and Funders or Investors, bridging 
+            the gap between knowledge, compliant research facilities, and client needs.
+          </p>
+          
+          <div className="grid md:grid-cols-2 gap-8">
+            <div>
+              <h4 className="text-lg font-semibold text-gray-900 mb-4">Streamlined Access to World-Class Services</h4>
+              <ul className="space-y-3 text-gray-600">
+                <li className="flex items-start space-x-3">
+                  <div className="w-2 h-2 bg-green-500 rounded-full mt-2 flex-shrink-0"></div>
+                  <span><strong>Contracting:</strong> Single contract with multiple collaborators</span>
+                </li>
+                <li className="flex items-start space-x-3">
+                  <div className="w-2 h-2 bg-green-500 rounded-full mt-2 flex-shrink-0"></div>
+                  <span><strong>Centralized Internal Support:</strong> Ensuring quality, standardization, integration, and managing risks across all sites</span>
+                </li>
+                <li className="flex items-start space-x-3">
+                  <div className="w-2 h-2 bg-green-500 rounded-full mt-2 flex-shrink-0"></div>
+                  <span><strong>Specialized Teams:</strong> Project Management, Program Management, Scientific Writing, Quality Assurance, Finance, and more</span>
+                </li>
+                <li className="flex items-start space-x-3">
+                  <div className="w-2 h-2 bg-green-500 rounded-full mt-2 flex-shrink-0"></div>
+                  <span><strong>Renowned Experts:</strong> Subject Matter Experts in animal health pharmaceutical and biological product development</span>
+                </li>
+                <li className="flex items-start space-x-3">
+                  <div className="w-2 h-2 bg-green-500 rounded-full mt-2 flex-shrink-0"></div>
+                  <span><strong>Account Management:</strong> Single point of contact through dedicated Project and Program Managers</span>
+                </li>
+              </ul>
+            </div>
+            
+            <div>
+              <h4 className="text-lg font-semibold text-gray-900 mb-4">Flexible, Solution-Oriented Approach</h4>
+              <ul className="space-y-3 text-gray-600">
+                <li className="flex items-start space-x-3">
+                  <div className="w-2 h-2 bg-blue-500 rounded-full mt-2 flex-shrink-0"></div>
+                  <span><strong>Functional Services Provider (FSP):</strong> Data Management, Statistics, and Scientific Writing</span>
+                </li>
+                <li className="flex items-start space-x-3">
+                  <div className="w-2 h-2 bg-blue-500 rounded-full mt-2 flex-shrink-0"></div>
+                  <span><strong>Dedicated Facilities and Colonies:</strong> Managed at ClinicallyVet sites as an extension of customer's internal research capabilities</span>
+                </li>
+                <li className="flex items-start space-x-3">
+                  <div className="w-2 h-2 bg-blue-500 rounded-full mt-2 flex-shrink-0"></div>
+                  <span><strong>Product Program Development Management:</strong> Dedicated team with over 20 years of experience supporting entire development programs</span>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
       {/* Mission & Vision */}
       <div className="grid lg:grid-cols-2 gap-12 mb-16">
         <div className="bg-white rounded-xl shadow-lg p-8">
