@@ -8,7 +8,7 @@ export const products: Product[] = [
     category: 'dogs',
     price: 89.99,
     description: 'High-quality nutrition for adult dogs with real chicken as the first ingredient.',
-    image: 'https://images.pexels.com/photos/1254140/pexels-photo-1254140.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/1390361/pexels-photo-1390361.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Real chicken first ingredient', 'No artificial preservatives', 'Supports healthy digestion', 'Omega fatty acids for coat health'],
     inStock: true
   },
@@ -18,7 +18,7 @@ export const products: Product[] = [
     category: 'dogs',
     price: 34.99,
     description: 'Complete dental care solution for maintaining your dog\'s oral health.',
-    image: 'https://images.pexels.com/photos/4498185/pexels-photo-4498185.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/7210754/pexels-photo-7210754.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Enzymatic toothpaste', 'Dual-headed toothbrush', 'Dental chews included', 'Veterinarian recommended'],
     inStock: true
   },
@@ -28,7 +28,7 @@ export const products: Product[] = [
     category: 'dogs',
     price: 45.99,
     description: 'Advanced joint support formula with glucosamine and chondroitin for active dogs.',
-    image: 'https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/4498168/pexels-photo-4498168.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Glucosamine & Chondroitin', 'MSM for inflammation', 'Easy-to-give chewable tablets', '90-day supply'],
     inStock: true
   },
@@ -40,7 +40,7 @@ export const products: Product[] = [
     category: 'cats',
     price: 79.99,
     description: 'Specially formulated nutrition for indoor cats with hairball control.',
-    image: 'https://images.pexels.com/photos/1741205/pexels-photo-1741205.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/1359307/pexels-photo-1359307.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Hairball control formula', 'High protein content', 'Natural fiber blend', 'Supports healthy weight'],
     inStock: true
   },
@@ -50,7 +50,7 @@ export const products: Product[] = [
     category: 'cats',
     price: 24.99,
     description: 'Advanced clumping litter with superior odor control technology.',
-    image: 'https://images.pexels.com/photos/1404819/pexels-photo-1404819.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/4498151/pexels-photo-4498151.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['99% dust-free', 'Instant clumping', '10-day odor control', 'Natural clay formula'],
     inStock: true
   },
@@ -60,7 +60,7 @@ export const products: Product[] = [
     category: 'cats',
     price: 38.99,
     description: 'Natural calming aid for stressed or anxious cats during travel or changes.',
-    image: 'https://images.pexels.com/photos/2061057/pexels-photo-2061057.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/6816861/pexels-photo-6816861.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['L-Theanine and Taurine', 'No drowsiness', 'Chicken flavor', 'Veterinarian formulated'],
     inStock: true
   },
@@ -82,7 +82,7 @@ export const products: Product[] = [
     category: 'birds',
     price: 19.99,
     description: 'Complete cleaning solution for maintaining a hygienic bird environment.',
-    image: 'https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/7210733/pexels-photo-7210733.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Bird-safe disinfectant', 'Specialized brushes', 'Cage liner papers', 'Non-toxic formula'],
     inStock: true
   },
@@ -92,7 +92,7 @@ export const products: Product[] = [
     category: 'birds',
     price: 32.99,
     description: 'Essential vitamins and minerals for optimal bird health and immunity.',
-    image: 'https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/6235657/pexels-photo-6235657.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Vitamin A, D3, E complex', 'Immune system support', 'Easy water-soluble', 'Veterinary grade'],
     inStock: true
   },
@@ -114,7 +114,7 @@ export const products: Product[] = [
     category: 'fish',
     price: 22.99,
     description: 'High-quality nutrition for tropical fish with color-enhancing ingredients.',
-    image: 'https://images.pexels.com/photos/1123982/pexels-photo-1123982.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/1427581/pexels-photo-1427581.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Color enhancement', 'High protein content', 'Easy digestion', 'Vitamin C enriched'],
     inStock: true
   },
@@ -124,7 +124,7 @@ export const products: Product[] = [
     category: 'fish',
     price: 28.99,
     description: 'Complete water testing kit for monitoring aquarium water quality.',
-    image: 'https://images.pexels.com/photos/1123982/pexels-photo-1123982.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/4498151/pexels-photo-4498151.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Tests pH, ammonia, nitrite', 'Easy-to-read results', '100+ tests included', 'Professional accuracy'],
     inStock: true
   },
@@ -146,7 +146,7 @@ export const products: Product[] = [
     category: 'small-animals',
     price: 14.99,
     description: 'Essential Vitamin C supplement for guinea pigs and other small animals.',
-    image: 'https://images.pexels.com/photos/3687770/pexels-photo-3687770.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/4498168/pexels-photo-4498168.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Prevents scurvy', 'Chewable tablets', 'Natural orange flavor', '90-day supply'],
     inStock: true
   },
@@ -156,7 +156,7 @@ export const products: Product[] = [
     category: 'small-animals',
     price: 26.99,
     description: 'Premium timothy hay blend for optimal digestive health in rabbits.',
-    image: 'https://images.pexels.com/photos/3687770/pexels-photo-3687770.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/1390361/pexels-photo-1390361.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['High fiber content', 'Supports dental health', 'Hand-selected quality', 'Dust-free packaging'],
     inStock: true
   },
@@ -178,7 +178,7 @@ export const products: Product[] = [
     category: 'reptiles',
     price: 18.99,
     description: 'Stainless steel feeding tongs for safe feeding of snakes and other reptiles.',
-    image: 'https://images.pexels.com/photos/45246/snake-python-reptile-green-45246.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/7210754/pexels-photo-7210754.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['12-inch length', 'Stainless steel construction', 'Non-slip grip', 'Easy to clean'],
     inStock: true
   },
@@ -188,7 +188,7 @@ export const products: Product[] = [
     category: 'reptiles',
     price: 89.99,
     description: 'Full-spectrum UV lighting essential for reptile health and calcium absorption.',
-    image: 'https://images.pexels.com/photos/45246/snake-python-reptile-green-45246.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/1427581/pexels-photo-1427581.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['UVA and UVB spectrum', 'Promotes vitamin D3', 'Long-lasting bulb', 'Easy installation'],
     inStock: true
   },
@@ -198,7 +198,7 @@ export const products: Product[] = [
     category: 'reptiles',
     price: 24.99,
     description: 'Natural substrate blend suitable for various reptile species including snakes.',
-    image: 'https://images.pexels.com/photos/45246/snake-python-reptile-green-45246.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/1359307/pexels-photo-1359307.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Natural materials', 'Maintains humidity', 'Easy to clean', 'Dust-free formula'],
     inStock: true
   },
@@ -208,7 +208,7 @@ export const products: Product[] = [
     category: 'reptiles',
     price: 32.99,
     description: 'Secure hiding place for snakes to reduce stress and promote natural behavior.',
-    image: 'https://images.pexels.com/photos/45246/snake-python-reptile-green-45246.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/7210733/pexels-photo-7210733.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Natural appearance', 'Easy to clean', 'Multiple sizes available', 'Durable construction'],
     inStock: true
   },
