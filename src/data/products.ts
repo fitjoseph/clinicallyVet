@@ -178,7 +178,7 @@ export const products: Product[] = [
     category: 'reptiles',
     price: 18.99,
     description: 'Stainless steel feeding tongs for safe feeding of snakes and other reptiles.',
-    image: 'https://images.pexels.com/photos/7210754/pexels-photo-7210754.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: '/reptiletong.jpg',
     features: ['12-inch length', 'Stainless steel construction', 'Non-slip grip', 'Easy to clean'],
     inStock: true
   },
