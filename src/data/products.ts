@@ -72,7 +72,7 @@ export const products: Product[] = [
     category: 'birds',
     price: 29.99,
     description: 'Nutritionally balanced seed mix for cockatiels, parakeets, and small birds.',
-    image: 'https://images.pexels.com/photos/2280549/pexels-photo-2280549.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: '/bird_seed.jpg',
     features: ['Vitamin enriched', 'No artificial colors', 'Supports vibrant plumage', 'Resealable packaging'],
     inStock: true
   },
