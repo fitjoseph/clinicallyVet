@@ -18,7 +18,7 @@ export const products: Product[] = [
     category: 'dogs',
     price: 34.99,
     description: 'Complete dental care solution for maintaining your dog\'s oral health.',
-    image: 'https://images.pexels.com/photos/4498293/pexels-photo-4498293.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Enzymatic toothpaste', 'Dual-headed toothbrush', 'Dental chews included', 'Veterinarian recommended'],
     inStock: true
   },
@@ -28,7 +28,7 @@ export const products: Product[] = [
     category: 'dogs',
     price: 45.99,
     description: 'Advanced joint support formula with glucosamine and chondroitin for active dogs.',
-    image: 'https://images.pexels.com/photos/4498168/pexels-photo-4498168.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/6816848/pexels-photo-6816848.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Glucosamine & Chondroitin', 'MSM for inflammation', 'Easy-to-give chewable tablets', '90-day supply'],
     inStock: true
   },
@@ -72,7 +72,7 @@ export const products: Product[] = [
     category: 'birds',
     price: 29.99,
     description: 'Nutritionally balanced seed mix for cockatiels, parakeets, and small birds.',
-    image: 'https://images.pexels.com/photos/1661506/pexels-photo-1661506.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/2280549/pexels-photo-2280549.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Vitamin enriched', 'No artificial colors', 'Supports vibrant plumage', 'Resealable packaging'],
     inStock: true
   },
@@ -82,7 +82,7 @@ export const products: Product[] = [
     category: 'birds',
     price: 19.99,
     description: 'Complete cleaning solution for maintaining a hygienic bird environment.',
-    image: 'https://images.pexels.com/photos/7210733/pexels-photo-7210733.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/3938022/pexels-photo-3938022.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Bird-safe disinfectant', 'Specialized brushes', 'Cage liner papers', 'Non-toxic formula'],
     inStock: true
   },
@@ -104,7 +104,7 @@ export const products: Product[] = [
     category: 'fish',
     price: 16.99,
     description: 'Instantly makes tap water safe for fish by neutralizing harmful chemicals.',
-    image: 'https://images.pexels.com/photos/1123985/pexels-photo-1123985.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/3735747/pexels-photo-3735747.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Neutralizes chlorine', 'Detoxifies heavy metals', 'Protects fish gills', 'Treats 600 gallons'],
     inStock: true
   },
@@ -114,7 +114,7 @@ export const products: Product[] = [
     category: 'fish',
     price: 22.99,
     description: 'High-quality nutrition for tropical fish with color-enhancing ingredients.',
-    image: 'https://images.pexels.com/photos/1427581/pexels-photo-1427581.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/4033148/pexels-photo-4033148.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Color enhancement', 'High protein content', 'Easy digestion', 'Vitamin C enriched'],
     inStock: true
   },
@@ -146,7 +146,7 @@ export const products: Product[] = [
     category: 'small-animals',
     price: 14.99,
     description: 'Essential Vitamin C supplement for guinea pigs and other small animals.',
-    image: 'https://images.pexels.com/photos/4498293/pexels-photo-4498293.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/2280571/pexels-photo-2280571.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Prevents scurvy', 'Chewable tablets', 'Natural orange flavor', '90-day supply'],
     inStock: true
   },
