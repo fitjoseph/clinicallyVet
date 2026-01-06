@@ -1,7 +1,7 @@
 export interface Product {
   id: string;
   name: string;
-  category: 'dogs' | 'cats' | 'birds' | 'fish' | 'small-animals' | 'reptiles';
+  category: 'dogs' | 'cats' | 'birds' | 'fish' | 'small-animals' | 'reptiles' | 'exotic-animals' | 'livestock' | 'vaccines' | 'lab-products';
   price: number;
   description: string;
   image: string;
