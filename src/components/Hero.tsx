@@ -10,10 +10,6 @@ const Hero: React.FC = () => {
       alt: "Veterinary professionals working in laboratory with pet"
     },
     {
-      image: "https://images.pexels.com/photos/4269019/pexels-photo-4269019.jpeg?auto=compress&cs=tinysrgb&w=800",
-      alt: "Veterinarian examining dog in modern clinic"
-    },
-    {
       image: "https://images.pexels.com/photos/6235657/pexels-photo-6235657.jpeg?auto=compress&cs=tinysrgb&w=800",
       alt: "Veterinary team conducting research with laboratory animals"
     },
