@@ -230,7 +230,7 @@ export const products: Product[] = [
     category: 'livestock',
     price: 78.99,
     description: 'Balanced nutrition feed for pigs with essential vitamins and minerals.',
-    image: 'https://images.pexels.com/photos/1390361/pexels-photo-1390361.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/162240/pig-alp-rest-backnang-162240.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['High protein content', 'Vitamin fortified', 'Promotes healthy growth', '50lb bag'],
     inStock: true
   },
@@ -250,7 +250,7 @@ export const products: Product[] = [
     category: 'livestock',
     price: 156.99,
     description: 'Specialized mineral supplement formulated for camel nutritional needs.',
-    image: 'https://images.pexels.com/photos/4498168/pexels-photo-4498168.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Desert-adapted formula', 'Essential minerals', 'Supports hydration', 'Veterinary approved'],
     inStock: true
   },
@@ -260,7 +260,7 @@ export const products: Product[] = [
     category: 'livestock',
     price: 89.99,
     description: 'Complete hoof care solution for maintaining healthy horse hooves.',
-    image: 'https://images.pexels.com/photos/3938026/pexels-photo-3938026.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/1996333/pexels-photo-1996333.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Hoof conditioner', 'Thrush treatment', 'Application brush', 'Professional grade'],
     inStock: true
   },
