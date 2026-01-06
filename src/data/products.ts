@@ -220,7 +220,7 @@ export const products: Product[] = [
     category: 'livestock',
     price: 129.99,
     description: 'Professional grooming kit with all essential tools for horse care.',
-    image: 'https://images.pexels.com/photos/635499/pexels-photo-635499.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/1996333/pexels-photo-1996333.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Complete brush set', 'Hoof pick included', 'Carrying case', 'Professional quality'],
     inStock: true
   },
@@ -230,7 +230,7 @@ export const products: Product[] = [
     category: 'livestock',
     price: 78.99,
     description: 'Balanced nutrition feed for pigs with essential vitamins and minerals.',
-    image: 'https://images.pexels.com/photos/162240/pig-agriculture-animals-pink-162240.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/1390361/pexels-photo-1390361.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['High protein content', 'Vitamin fortified', 'Promotes healthy growth', '50lb bag'],
     inStock: true
   },
@@ -240,7 +240,7 @@ export const products: Product[] = [
     category: 'livestock',
     price: 45.99,
     description: 'Durable halter and lead rope set designed specifically for donkeys.',
-    image: 'https://images.pexels.com/photos/2104152/pexels-photo-2104152.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/1996334/pexels-photo-1996334.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Adjustable fit', 'Weather resistant', 'Comfortable padding', 'Lead rope included'],
     inStock: true
   },
@@ -250,7 +250,7 @@ export const products: Product[] = [
     category: 'livestock',
     price: 156.99,
     description: 'Specialized mineral supplement formulated for camel nutritional needs.',
-    image: 'https://images.pexels.com/photos/2104152/pexels-photo-2104152.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/4498168/pexels-photo-4498168.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Desert-adapted formula', 'Essential minerals', 'Supports hydration', 'Veterinary approved'],
     inStock: true
   },
@@ -260,7 +260,7 @@ export const products: Product[] = [
     category: 'livestock',
     price: 89.99,
     description: 'Complete hoof care solution for maintaining healthy horse hooves.',
-    image: 'https://images.pexels.com/photos/635499/pexels-photo-635499.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/3938026/pexels-photo-3938026.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Hoof conditioner', 'Thrush treatment', 'Application brush', 'Professional grade'],
     inStock: true
   },
