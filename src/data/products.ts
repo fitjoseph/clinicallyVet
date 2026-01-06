@@ -82,7 +82,7 @@ export const products: Product[] = [
     category: 'birds',
     price: 19.99,
     description: 'Complete cleaning solution for maintaining a hygienic bird environment.',
-    image: 'https://images.pexels.com/photos/3938022/pexels-photo-3938022.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: '/birdcageclean.jpg',
     features: ['Bird-safe disinfectant', 'Specialized brushes', 'Cage liner papers', 'Non-toxic formula'],
     inStock: true
   },
