@@ -18,7 +18,7 @@ export const products: Product[] = [
     category: 'dogs',
     price: 34.99,
     description: 'Complete dental care solution for maintaining your dog\'s oral health.',
-    image: 'https://images.pexels.com/photos/7210754/pexels-photo-7210754.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/4498293/pexels-photo-4498293.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Enzymatic toothpaste', 'Dual-headed toothbrush', 'Dental chews included', 'Veterinarian recommended'],
     inStock: true
   },
@@ -50,7 +50,7 @@ export const products: Product[] = [
     category: 'cats',
     price: 24.99,
     description: 'Advanced clumping litter with superior odor control technology.',
-    image: 'https://images.pexels.com/photos/4498151/pexels-photo-4498151.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/1404819/pexels-photo-1404819.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['99% dust-free', 'Instant clumping', '10-day odor control', 'Natural clay formula'],
     inStock: true
   },
@@ -72,7 +72,7 @@ export const products: Product[] = [
     category: 'birds',
     price: 29.99,
     description: 'Nutritionally balanced seed mix for cockatiels, parakeets, and small birds.',
-    image: 'https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/1661506/pexels-photo-1661506.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Vitamin enriched', 'No artificial colors', 'Supports vibrant plumage', 'Resealable packaging'],
     inStock: true
   },
@@ -104,7 +104,7 @@ export const products: Product[] = [
     category: 'fish',
     price: 16.99,
     description: 'Instantly makes tap water safe for fish by neutralizing harmful chemicals.',
-    image: 'https://images.pexels.com/photos/1123982/pexels-photo-1123982.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/1123985/pexels-photo-1123985.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Neutralizes chlorine', 'Detoxifies heavy metals', 'Protects fish gills', 'Treats 600 gallons'],
     inStock: true
   },
@@ -124,7 +124,7 @@ export const products: Product[] = [
     category: 'fish',
     price: 28.99,
     description: 'Complete water testing kit for monitoring aquarium water quality.',
-    image: 'https://images.pexels.com/photos/4498151/pexels-photo-4498151.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/2280568/pexels-photo-2280568.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Tests pH, ammonia, nitrite', 'Easy-to-read results', '100+ tests included', 'Professional accuracy'],
     inStock: true
   },
@@ -146,7 +146,7 @@ export const products: Product[] = [
     category: 'small-animals',
     price: 14.99,
     description: 'Essential Vitamin C supplement for guinea pigs and other small animals.',
-    image: 'https://images.pexels.com/photos/3687770/pexels-photo-3687770.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/4498293/pexels-photo-4498293.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Prevents scurvy', 'Chewable tablets', 'Natural orange flavor', '90-day supply'],
     inStock: true
   },
@@ -156,7 +156,7 @@ export const products: Product[] = [
     category: 'small-animals',
     price: 26.99,
     description: 'Premium timothy hay blend for optimal digestive health in rabbits.',
-    image: 'https://images.pexels.com/photos/1390361/pexels-photo-1390361.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/326012/pexels-photo-326012.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['High fiber content', 'Supports dental health', 'Hand-selected quality', 'Dust-free packaging'],
     inStock: true
   },
