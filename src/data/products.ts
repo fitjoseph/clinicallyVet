@@ -250,7 +250,7 @@ export const products: Product[] = [
     category: 'livestock',
     price: 156.99,
     description: 'Specialized mineral supplement formulated for camel nutritional needs.',
-    image: 'https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: '/pexels-karola-g-5840811 copy.jpg',
     features: ['Desert-adapted formula', 'Essential minerals', 'Supports hydration', 'Veterinary approved'],
     inStock: true
   },
