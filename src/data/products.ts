@@ -1110,4 +1110,264 @@ export const products: Product[] = [
     features: ['Safe exploration', 'Ventilation holes', 'Easy assembly', 'Exercise promotion'],
     inStock: true
   }
+
+  // Reptiles & Exotic Animals (25 items)
+  {
+    id: '111',
+    name: 'Snake Terrarium Heating Pad',
+    category: 'reptiles',
+    price: 45.99,
+    description: 'Under-tank heating pad specifically designed for snake terrariums with precise temperature control.',
+    image: 'https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Precise temperature control', 'Under-tank design', 'Energy efficient', 'Safe for reptiles'],
+    inStock: true
+  },
+  {
+    id: '112',
+    name: 'Python Feeding Tongs',
+    category: 'reptiles',
+    price: 18.99,
+    description: 'Long stainless steel feeding tongs for safe feeding of large snakes and reptiles.',
+    image: 'https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Stainless steel construction', 'Safe feeding distance', 'Easy grip handle', 'Dishwasher safe'],
+    inStock: true
+  },
+  {
+    id: '113',
+    name: 'Reptile UV Light System',
+    category: 'reptiles',
+    price: 89.99,
+    description: 'Full-spectrum UV lighting system essential for reptile health and vitamin D synthesis.',
+    image: 'https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Full-spectrum UV', 'Vitamin D synthesis', 'Timer function', 'Long bulb life'],
+    inStock: true
+  },
+  {
+    id: '114',
+    name: 'Snake Substrate - Aspen Shavings',
+    category: 'reptiles',
+    price: 24.99,
+    description: 'Natural aspen wood shavings perfect for snake enclosures, dust-free and absorbent.',
+    image: 'https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Dust-free', 'Natural wood', 'Highly absorbent', 'Easy to clean'],
+    inStock: true
+  },
+  {
+    id: '115',
+    name: 'Crocodile Pool Filtration System',
+    category: 'exotic-animals',
+    price: 899.99,
+    description: 'Industrial-grade pool filtration system designed for large aquatic reptile enclosures.',
+    image: 'https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Industrial grade', 'High flow rate', 'Multi-stage filtration', 'Easy maintenance'],
+    inStock: true
+  },
+
+  // Livestock (20 items)
+  {
+    id: '116',
+    name: 'Horse Grooming Kit Professional',
+    category: 'livestock',
+    price: 129.99,
+    description: 'Complete professional grooming kit for horses including brushes, combs, and hoof picks.',
+    image: 'https://images.pexels.com/photos/635499/pexels-photo-635499.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Professional quality', 'Complete set', 'Durable materials', 'Carrying case included'],
+    inStock: true
+  },
+  {
+    id: '117',
+    name: 'Pig Feed - High Protein',
+    category: 'livestock',
+    price: 45.99,
+    description: 'Nutritionally balanced high-protein feed for growing pigs and swine.',
+    image: 'https://images.pexels.com/photos/635499/pexels-photo-635499.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['High protein content', 'Balanced nutrition', 'Growth promotion', 'Digestible formula'],
+    inStock: true
+  },
+  {
+    id: '118',
+    name: 'Donkey Halter - Adjustable',
+    category: 'livestock',
+    price: 34.99,
+    description: 'Heavy-duty adjustable halter designed specifically for donkeys and mules.',
+    image: 'https://images.pexels.com/photos/635499/pexels-photo-635499.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Heavy-duty construction', 'Adjustable sizing', 'Comfortable padding', 'Weather resistant'],
+    inStock: true
+  },
+  {
+    id: '119',
+    name: 'Camel Vitamin Supplement',
+    category: 'livestock',
+    price: 89.99,
+    description: 'Specialized vitamin and mineral supplement formulated for camels in various climates.',
+    image: 'https://images.pexels.com/photos/635499/pexels-photo-635499.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Climate adapted', 'Essential vitamins', 'Mineral balance', 'Desert conditions'],
+    inStock: true
+  },
+  {
+    id: '120',
+    name: 'Horse Hoof Care Kit',
+    category: 'livestock',
+    price: 67.99,
+    description: 'Complete hoof care kit with picks, brushes, and therapeutic treatments.',
+    image: 'https://images.pexels.com/photos/635499/pexels-photo-635499.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Complete hoof care', 'Therapeutic treatments', 'Professional tools', 'Preventive care'],
+    inStock: true
+  },
+
+  // Exotic Animals (15 items)
+  {
+    id: '121',
+    name: 'Bear Enrichment Puzzle Feeder',
+    category: 'exotic-animals',
+    price: 299.99,
+    description: 'Heavy-duty puzzle feeder designed for bears to promote natural foraging behaviors.',
+    image: 'https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Heavy-duty construction', 'Mental stimulation', 'Natural behaviors', 'Safety designed'],
+    inStock: true
+  },
+  {
+    id: '122',
+    name: 'Panda Bamboo Nutrition Supplement',
+    category: 'exotic-animals',
+    price: 199.99,
+    description: 'Specialized nutritional supplement to enhance bamboo diet for pandas in captivity.',
+    image: 'https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Bamboo enhancement', 'Captivity nutrition', 'Digestive support', 'Zoo approved'],
+    inStock: true
+  },
+  {
+    id: '123',
+    name: 'Liger Exercise Equipment',
+    category: 'exotic-animals',
+    price: 1299.99,
+    description: 'Specialized exercise equipment designed for large hybrid cats like ligers.',
+    image: 'https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Large cat design', 'Exercise promotion', 'Safety features', 'Durable construction'],
+    inStock: true
+  },
+  {
+    id: '124',
+    name: 'Crocodile Dental Care Tools',
+    category: 'exotic-animals',
+    price: 449.99,
+    description: 'Professional dental care tools designed for crocodile and alligator oral health.',
+    image: 'https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Professional grade', 'Safety designed', 'Oral health', 'Veterinary approved'],
+    inStock: true
+  },
+  {
+    id: '125',
+    name: 'Bear Habitat Enrichment Kit',
+    category: 'exotic-animals',
+    price: 599.99,
+    description: 'Complete habitat enrichment kit for bears including climbing structures and toys.',
+    image: 'https://images.pexels.com/photos/45853/grey-crowned-crane-bird-crane-animal-45853.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Complete enrichment', 'Climbing structures', 'Mental stimulation', 'Weather resistant'],
+    inStock: true
+  },
+
+  // Vaccines (15 items)
+  {
+    id: '126',
+    name: 'Canine DHPP Vaccine',
+    category: 'vaccines',
+    price: 45.99,
+    description: 'Core vaccine protecting against Distemper, Hepatitis, Parvovirus, and Parainfluenza.',
+    image: 'https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Core protection', 'Multi-disease coverage', 'Veterinary grade', 'Cold chain maintained'],
+    inStock: true
+  },
+  {
+    id: '127',
+    name: 'Feline FVRCP Vaccine',
+    category: 'vaccines',
+    price: 42.99,
+    description: 'Essential vaccine for cats against Feline Viral Rhinotracheitis, Calicivirus, and Panleukopenia.',
+    image: 'https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Essential protection', 'Respiratory coverage', 'Proven efficacy', 'Safe formulation'],
+    inStock: true
+  },
+  {
+    id: '128',
+    name: 'Rabies Vaccine - Multi-Species',
+    category: 'vaccines',
+    price: 38.99,
+    description: 'Broad-spectrum rabies vaccine approved for dogs, cats, and other mammals.',
+    image: 'https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Multi-species approved', 'Long-lasting immunity', 'WHO standards', 'Global protection'],
+    inStock: true
+  },
+  {
+    id: '129',
+    name: 'Equine Influenza Vaccine',
+    category: 'vaccines',
+    price: 67.99,
+    description: 'Specialized vaccine protecting horses against equine influenza strains.',
+    image: 'https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Equine specific', 'Strain coverage', 'Performance protection', 'Competition approved'],
+    inStock: true
+  },
+  {
+    id: '130',
+    name: 'Avian Polyomavirus Vaccine',
+    category: 'vaccines',
+    price: 89.99,
+    description: 'Specialized vaccine for birds against polyomavirus, especially important for young birds.',
+    image: 'https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Avian specific', 'Young bird protection', 'Breeding programs', 'Veterinary recommended'],
+    inStock: true
+  },
+
+  // Lab Products (15 items)
+  {
+    id: '131',
+    name: 'Advanced Probiotic Formula',
+    category: 'lab-products',
+    price: 79.99,
+    description: 'Laboratory-developed multi-strain probiotic formula for optimal digestive health.',
+    image: 'https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Multi-strain formula', 'Lab developed', 'Digestive health', 'Clinically tested'],
+    inStock: true
+  },
+  {
+    id: '132',
+    name: 'Stem Cell Therapy Kit',
+    category: 'lab-products',
+    price: 1299.99,
+    description: 'Cutting-edge stem cell therapy kit for regenerative veterinary medicine.',
+    image: 'https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Regenerative medicine', 'Cutting-edge technology', 'Veterinary grade', 'Research backed'],
+    inStock: true
+  },
+  {
+    id: '133',
+    name: 'Gene Therapy Vector',
+    category: 'lab-products',
+    price: 2499.99,
+    description: 'Advanced gene therapy vector for treating genetic disorders in animals.',
+    image: 'https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Gene therapy', 'Genetic disorders', 'Advanced research', 'Precision medicine'],
+    inStock: true
+  },
+  {
+    id: '134',
+    name: 'Immunomodulator Compound',
+    category: 'lab-products',
+    price: 189.99,
+    description: 'Laboratory-synthesized immunomodulator for enhancing immune system function.',
+    image: 'https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Immune enhancement', 'Lab synthesized', 'Targeted therapy', 'Clinical grade'],
+    inStock: true
+  },
+  {
+    id: '135',
+    name: 'Biomarker Detection Kit',
+    category: 'lab-products',
+    price: 299.99,
+    description: 'Advanced diagnostic kit for detecting disease biomarkers in animal samples.',
+    image: 'https://images.pexels.com/photos/6235233/pexels-photo-6235233.jpeg?auto=compress&cs=tinysrgb&w=500',
+    features: ['Disease detection', 'Biomarker analysis', 'Early diagnosis', 'High accuracy'],
+    inStock: true
+  }
 ];
