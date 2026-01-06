@@ -208,7 +208,7 @@ export const products: Product[] = [
     category: 'reptiles',
     price: 32.99,
     description: 'Secure hiding place for snakes to reduce stress and promote natural behavior.',
-    image: 'https://images.pexels.com/photos/7210733/pexels-photo-7210733.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/3938023/pexels-photo-3938023.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Natural appearance', 'Easy to clean', 'Multiple sizes available', 'Durable construction'],
     inStock: true
   },
