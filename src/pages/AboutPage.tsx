@@ -40,7 +40,6 @@ const AboutPage: React.FC = () => {
 
       {/* Why Choose Us */}
       <div className="mb-16">
-        <h2 className="text-3xl font-bold text-gray-900 text-center mb-12">Why Choose EgarPharm Group?</h2>
         <h2 className="text-3xl font-bold text-gray-900 text-center mb-12">Why Choose ClinicallyVet Group?</h2>
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
           <div className="text-center">
