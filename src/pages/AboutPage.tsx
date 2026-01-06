@@ -13,8 +13,10 @@ const AboutPage: React.FC = () => {
           About ClinicallyVet Group
         </h1>
         <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-          For over two decades, ClinicallyVet Group has been dedicated to providing the highest quality 
-          veterinary products and pet care supplies. We believe every pet deserves the best care possible.
+          ClinicallyVet Group is an Animal Health Contract Research Organization (CRO) member of the ClinicallyVet Group. 
+          Our unique business model offers the animal health and care industry and wider R&D community simplified contracting 
+          and project management solutions with a bespoke approach to delivering research through an extensive portfolio of 
+          services from a network of internal and external strategic partners.
         </p>
       </div>
 
@@ -114,20 +116,22 @@ const AboutPage: React.FC = () => {
         <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
         <div className="prose prose-lg max-w-none text-gray-600">
           <p className="mb-4">
-            ClinicallyVet Group was founded in 2004 by a team of veterinarians and pet enthusiasts who 
-            recognized the need for a reliable source of high-quality pet care products. What started 
-            as a small veterinary supply company has grown into a trusted name in the pet care industry.
+            ClinicallyVet Group was founded in 2004 as an Animal Health Contract Research Organization, 
+            recognizing the need for simplified contracting and project management solutions in the animal 
+            health industry. What started as a specialized research organization has grown into a comprehensive 
+            network offering bespoke research services to the wider R&D community.
           </p>
           <p className="mb-4">
-            Our journey began with a simple mission: to bridge the gap between veterinary professionals 
-            and pet owners by providing access to the same quality products used in veterinary clinics. 
-            Over the years, we've expanded our product range to include everything from premium pet food 
-            and supplements to specialized medical equipment and everyday care items.
+            Our journey began with a focus on delivering high-quality research through our extensive portfolio 
+            of services. Through our network of internal and external strategic partners, we've developed a 
+            unique business model that streamlines research processes and provides comprehensive solutions for 
+            animal health and care industry challenges.
           </p>
           <p>
-            Today, ClinicallyVet Group serves thousands of customers worldwide, including veterinary clinics, 
-            pet stores, and individual pet owners. We continue to uphold our founding principles of quality, 
-            integrity, and exceptional service, ensuring that every pet receives the care they deserve.
+            Today, ClinicallyVet Group serves the global animal health and R&D community with our comprehensive 
+            contract research services. We continue to uphold our founding principles of quality, innovation, 
+            and bespoke service delivery, ensuring that every research project receives the specialized attention 
+            and expertise it deserves.
           </p>
         </div>
       </div>
