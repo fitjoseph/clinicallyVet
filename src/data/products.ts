@@ -146,7 +146,7 @@ export const products: Product[] = [
     category: 'small-animals',
     price: 14.99,
     description: 'Essential Vitamin C supplement for guinea pigs and other small animals.',
-    image: 'https://images.pexels.com/photos/4498168/pexels-photo-4498168.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/3687770/pexels-photo-3687770.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Prevents scurvy', 'Chewable tablets', 'Natural orange flavor', '90-day supply'],
     inStock: true
   },
@@ -168,7 +168,7 @@ export const products: Product[] = [
     category: 'reptiles',
     price: 45.99,
     description: 'Under-tank heating pad for maintaining optimal temperatures for snakes and reptiles.',
-    image: 'https://images.pexels.com/photos/45246/snake-python-reptile-green-45246.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/3938026/pexels-photo-3938026.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['Adjustable temperature', 'Energy efficient', 'Safe for glass terrariums', 'Thermostat compatible'],
     inStock: true
   },
@@ -230,7 +230,7 @@ export const products: Product[] = [
     category: 'livestock',
     price: 78.99,
     description: 'Balanced nutrition feed for pigs with essential vitamins and minerals.',
-    image: 'https://images.pexels.com/photos/1300355/pexels-photo-1300355.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://images.pexels.com/photos/162240/pig-agriculture-animals-pink-162240.jpeg?auto=compress&cs=tinysrgb&w=800',
     features: ['High protein content', 'Vitamin fortified', 'Promotes healthy growth', '50lb bag'],
     inStock: true
   },
