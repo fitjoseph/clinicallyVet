@@ -272,7 +272,7 @@ export const products: Product[] = [
     category: 'exotic-animals',
     price: 299.99,
     description: 'Heavy-duty enrichment feeding device designed for bears in captivity.',
-    image: 'https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: '/bear.jpg',
     features: ['Stainless steel construction', 'Puzzle feeding design', 'Easy to clean', 'Enrichment focused'],
     inStock: true
   },
@@ -282,7 +282,7 @@ export const products: Product[] = [
     category: 'exotic-animals',
     price: 189.99,
     description: 'Specialized nutritional supplement for pandas with bamboo extract.',
-    image: 'https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: '/bear.jpg',
     features: ['Bamboo fiber concentrate', 'Digestive enzymes', 'Vitamin enriched', 'Zoo-grade quality'],
     inStock: true
   },
@@ -312,7 +312,7 @@ export const products: Product[] = [
     category: 'exotic-animals',
     price: 899.99,
     description: 'Complete habitat enhancement package for bear enclosures.',
-    image: 'https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: '/bear.jpg',
     features: ['Multiple enrichment items', 'Durable materials', 'Easy installation', 'Behavioral stimulation'],
     inStock: true
   },
