@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import { Star, ShoppingBag, Check } from 'lucide-react';
 import { Product } from '../types/Product';
 
@@ -76,10 +77,13 @@ const ProductCard: React.FC<ProductCardProps> = ({ product }) => {
           <div className="text-2xl font-bold text-green-600">${product.price}</div>
         </div>
 
-        <button className="w-full bg-green-600 text-white py-3 px-4 rounded-lg font-semibold hover:bg-green-700 transition-colors flex items-center justify-center space-x-2 group">
+        <Link 
+          to={`/product/${product.id}`}
+          className="w-full bg-green-600 text-white py-3 px-4 rounded-lg font-semibold hover:bg-green-700 transition-colors flex items-center justify-center space-x-2 group"
+        >
           <ShoppingBag className="h-4 w-4 group-hover:scale-110 transition-transform" />
           <span>View Details</span>
-        </button>
+        </Link>
       </div>
     </div>
   );
