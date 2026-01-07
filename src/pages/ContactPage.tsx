@@ -52,8 +52,8 @@ const ContactPage: React.FC = () => {
                 <h3 className="font-semibold text-gray-900 mb-1">Our Location</h3>
                 <p className="text-gray-600">
                   ClinicallyVet Group Headquarters,<br />
-                  2847 Maple Ridge Drive,<br />
-                  Austin, TX 78704, United States
+                  8122 Beverly Blvd,<br />
+                  Los Angeles, CA 90048, United States
                 </p>
               </div>
             </div>
