@@ -282,7 +282,7 @@ export const products: Product[] = [
     category: 'exotic-animals',
     price: 189.99,
     description: 'Specialized nutritional supplement for pandas with bamboo extract.',
-    image: '/bear.jpg',
+    image: '/pandabamboo.jpg',
     features: ['Bamboo fiber concentrate', 'Digestive enzymes', 'Vitamin enriched', 'Zoo-grade quality'],
     inStock: true
   },
