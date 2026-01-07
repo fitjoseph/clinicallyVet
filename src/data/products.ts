@@ -292,7 +292,7 @@ export const products: Product[] = [
     category: 'exotic-animals',
     price: 1299.99,
     description: 'Large-scale exercise and enrichment equipment designed for ligers.',
-    image: 'https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: '/bear.jpg',
     features: ['Heavy-duty construction', 'Weather resistant', 'Multiple activity zones', 'Professional installation'],
     inStock: true
   },
