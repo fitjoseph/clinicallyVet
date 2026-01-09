@@ -79,9 +79,9 @@ const ContactPage: React.FC = () => {
               <div>
                 <h3 className="font-semibold text-gray-900 mb-1">Email Addresses</h3>
                 <p className="text-gray-600">
-                  General: info@clinicallyvet.com<br />
-                  Support: support@clinicallyvet.com<br />
-                  Sales: sales@clinicallyvet.com
+                  General: info@clinicallyveti.com<br />
+                  Support: support@clinicallyveti.com<br />
+                  Sales: sales@clinicallyveti.com
                 </p>
               </div>
             </div>
