@@ -11,8 +11,13 @@ const Footer: React.FC = () => {
           <div>
             <div className="flex items-center space-x-2 mb-4">
               <Heart className="h-8 w-8 text-green-500" />
-              <div className="text-xl font-bold text-white">
-                ClinicallyVeti
+              <div>
+                <div className="text-xl font-bold text-white">
+                  ClinicallyVeti Group
+                </div>
+                <div className="text-xs text-gray-300 -mt-1">
+                  Quality Care for Every Pet
+                </div>
               </div>
             </div>
             <p className="text-gray-400 mb-4">
