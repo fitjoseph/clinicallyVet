@@ -13,7 +13,7 @@ const AboutPage: React.FC = () => {
           About ClinicallyVeti
         </h1>
         <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
-          ClinicallyVet Group is an Animal Health Contract Research Organization (CRO) member of the ClinicallyVet Group. 
+          ClinicallyVeti Group is an Animal Health Contract Research Organization (CRO) member of the ClinicallyVeti Group.
           Our unique business model offers the animal health and care industry and wider R&D community simplified contracting 
           and project management solutions with a bespoke approach to delivering research through an extensive portfolio of 
           services from a network of internal and external strategic partners.
@@ -28,7 +28,7 @@ const AboutPage: React.FC = () => {
             A collaborative approach to accelerate innovation in animal health.
           </h3>
           <p className="text-gray-600 leading-relaxed mb-6">
-            ClinicallyVet manages a research innovation platform through collaborations with its group companies, 
+            ClinicallyVeti manages a research innovation platform through collaborations with its group companies, 
             external Subject Matter Experts, Sponsors, Research Institutions, and Funders or Investors, bridging 
             the gap between knowledge, compliant research facilities, and client needs.
           </p>
@@ -177,7 +177,7 @@ const AboutPage: React.FC = () => {
         <h2 className="text-3xl font-bold text-gray-900 mb-6">Our Story</h2>
         <div className="prose prose-lg max-w-none text-gray-600">
           <p className="mb-4">
-            ClinicallyVet Group was founded in 2004 as an Animal Health Contract Research Organization, 
+            ClinicallyVeti Group was founded in 2004 as an Animal Health Contract Research Organization, 
             recognizing the need for simplified contracting and project management solutions in the animal 
             health industry. What started as a specialized research organization has grown into a comprehensive 
             network offering bespoke research services to the wider R&D community.
@@ -189,7 +189,7 @@ const AboutPage: React.FC = () => {
             animal health and care industry challenges.
           </p>
           <p>
-            Today, ClinicallyVet Group serves the global animal health and R&D community with our comprehensive 
+            Today, ClinicallyVeti Group serves the global animal health and R&D community with our comprehensive 
             contract research services. We continue to uphold our founding principles of quality, innovation, 
             and bespoke service delivery, ensuring that every research project receives the specialized attention 
             and expertise it deserves.
