@@ -39,7 +39,7 @@ const HomePage: React.FC = () => {
             A collaborative approach to accelerate innovation in animal health.
           </h3>
           <p className="text-gray-600 leading-relaxed mb-8 max-w-4xl mx-auto text-center">
-            ClinicallyVet manages a research innovation platform through collaborations with its group companies, 
+            ClinicallyVeti manages a research innovation platform through collaborations with its group companies, 
             external Subject Matter Experts, Sponsors, Research Institutions, and Funders or Investors, bridging 
             the gap between knowledge, compliant research facilities, and client needs.
           </p>
