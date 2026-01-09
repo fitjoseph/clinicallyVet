@@ -16,7 +16,9 @@ const Footer: React.FC = () => {
                   ClinicallyVeti Group
                 </div>
                 <div className="text-xs text-green-400 font-bold mt-0.5 font-sans">
+                <div className="text-xs text-green-400 font-bold mt-0.5 font-serif">
                   Quality Care for Every Pet
+                </div>
                 </div>
               </div>
             </div>
