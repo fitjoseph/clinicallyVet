@@ -10,7 +10,7 @@ const AboutPage: React.FC = () => {
           <Heart className="h-16 w-16 text-green-600" />
         </div>
         <h1 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
-          About ClinicallyVet Group
+          About ClinicallyVeti
         </h1>
         <p className="text-xl text-gray-600 max-w-4xl mx-auto leading-relaxed">
           ClinicallyVet Group is an Animal Health Contract Research Organization (CRO) member of the ClinicallyVet Group. 

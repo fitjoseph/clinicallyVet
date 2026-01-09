@@ -19,7 +19,7 @@ const HomePage: React.FC = () => {
             Our Research & Development Solutions
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto mb-8">
-            ClinicallyVet Group is an Animal Health Contract Research Organization (CRO) offering simplified 
+            ClinicallyVeti is an Animal Health Contract Research Organization (CRO) offering simplified 
             contracting and project management solutions. Our bespoke approach delivers research through an 
             extensive portfolio of services from our network of internal and external strategic partners.
           </p>
