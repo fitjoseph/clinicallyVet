@@ -26,7 +26,7 @@ const Header: React.FC = () => {
                 <div className="text-2xl font-bold text-gray-900">
                   ClinicallyVeti Group
                 </div>
-                <div className="text-xs text-gray-600 -mt-1">
+                <div className="text-xs text-green-600 font-bold mt-1">
                   Quality Care for Every Pet
                 </div>
               </div>
