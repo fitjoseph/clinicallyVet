@@ -22,9 +22,8 @@ const Header: React.FC = () => {
           <Link to="/" className="flex items-center space-x-3">
             <div className="flex items-center space-x-2">
               <Heart className="h-8 w-8 text-green-600" />
-              <div>
-                <h1 className="text-xl font-bold text-gray-900">ClinicallyVet Group</h1>
-                <p className="text-xs text-green-600 font-medium">Quality Care for Every Pet</p>
+              <div className="text-2xl font-bold text-gray-900">
+                ClinicallyVeti
               </div>
             </div>
           </Link>
